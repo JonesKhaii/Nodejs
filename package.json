@@ -1,0 +1,27 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "first.js",
+  "scripts": {
+    "start": "nodemon --inspect first.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JonesKhaii/Nodejs.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "learn",
+    "Nodejs"
+  ],
+  "author": "JonesKhaii",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.1"
+  }
+}
